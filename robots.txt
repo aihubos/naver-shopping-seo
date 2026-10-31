@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://aihubos.github.io/naver-shopping-seo/sitemap.xml
